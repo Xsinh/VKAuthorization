@@ -20,19 +20,18 @@ namespace VKDocker
             string URL = URI;
             string token = "access_token=";
             char[] simbol = { '=', '&' }; 
-            
-           if (URL.Contains(token))
+        try{
+            if (URL.Contains(token))
+                {
+                        string[] cleartoken = URL.Split(simbol);
+                        MessageBox.Show(cleartoken[1]);
+      
+                }    
+            }
+        catch(Exception ex)
             {
-                try
-                {
-                    string[] cleartoken = URL.Split(simbol);
-                    MessageBox.Show(cleartoken[1]);
-                }
-               catch(Exception ex)
-                {
-                    MessageBox.Show(ex.Message.ToString());
-                }
-            }    
+                MessageBox.Show(ex.Message.ToString());
+            }
         }
 
     }
