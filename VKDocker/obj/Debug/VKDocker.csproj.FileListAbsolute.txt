@@ -1,0 +1,13 @@
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\bin\Debug\VKDocker.exe.config
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\bin\Debug\VKDocker.exe
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\bin\Debug\VKDocker.pdb
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.csprojResolveAssemblyReference.cache
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\MainWindow.baml
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\MainWindow.g.cs
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\App.g.cs
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker_MarkupCompile.cache
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.g.resources
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.Properties.Resources.resources
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.csproj.GenerateResource.Cache
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.exe
+C:\Users\Viper's\Desktop\Folder\VK\VKDocker\VKDocker\obj\Debug\VKDocker.pdb

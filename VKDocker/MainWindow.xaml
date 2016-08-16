@@ -1,0 +1,10 @@
+﻿<Window x:Class="VKDocker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="435" Width="700" Background="White" Visibility="Visible" Opacity="0.995" WindowStyle="None">
+    <Grid>
+        <WebBrowser x:Name="wb" HorizontalAlignment="Left" Height="429" VerticalAlignment="Top" Width="692" Margin="0,0,0,-10" LoadCompleted="wb_LoadCompleted"/>
+
+    </Grid>
+</Window>
